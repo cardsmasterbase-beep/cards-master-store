@@ -1,1 +1,24 @@
-1
+{
+	"id": "en_ru_animals_nouns_001",
+	"title": "Животные",
+	"language_1": "English",
+	"language_2": "Ruso",
+	"part_of_speech": "Существительное",
+	"cards": [
+		{
+			"word_1": "dog",
+			"word_2": "собака",
+			"hashtags": ["Животные"]
+		},
+		{
+			"word_1": "cat",
+			"word_2": "кот",
+			"hashtags": ["Животные"]
+		},
+		{
+			"word_1": "horse",
+			"word_2": "лошадь",
+			"hashtags": ["Животные"]
+		}
+	]
+}
