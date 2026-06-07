@@ -1,0 +1,14 @@
+{
+  "packs": [
+    {
+      "id": "eng_rus_animals",
+      "title": "Животные",
+      "language_1": "English",
+      "language_2": "Ruso",
+      "part_of_speech": "Существительное",
+      "hashtags": ["Животные"],
+      "cards_count": 50,
+      "pack_url": "..."
+    }
+  ]
+}
